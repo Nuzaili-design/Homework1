@@ -22,3 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 # Homework1
 # Homework1
 "# Homework1" 
+"# homework1" 
+"# assignment1" 
+"# assignment1" 
